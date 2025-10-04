@@ -1,1 +1,1 @@
-# Computer-Science-and-Fundamentals
+# ComputerScienceandFundamentals
